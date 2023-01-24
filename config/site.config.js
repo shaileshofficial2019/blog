@@ -1,71 +1,71 @@
 const siteConfig = {
   seo: {
-    title: 'itsrakesh - blog',
-    author: 'Rakesh Potnuru',
-    copyright: 'itsrakesh',
+    title: 'TechnoDev Blog',
+    author: 'technodev',
+    copyright: 'technodev',
     description:
-      'Browse programming tutorials and articles written by Rakesh Potnuru. Learn Web Development, Blockchain, Web3 and Technical writing.',
+      'Browse programming tutorials and articles. Learn Web Development, Blockchain, Web3 and Technical writing.',
     image:
-      'https://ik.imagekit.io/itsrakesh/Blog/itsrakesh_-_blog_r0SAC1__p.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838485',
-    altText: 'itsrakesh - blog',
+      'https://res.cloudinary.com/technodevblog/image/upload/v1674575242/Blog/Technodev_Blog_v2q5q8.png',
+    altText: 'technodev - blog',
     ogType: 'website',
-    monetizationTag: '$ilp.uphold.com/82eq8NKY4NEZ',
-    twitterUsername: '@rakesh_at_tweet',
+    monetizationTag: '',
+    twitterUsername: '@',
     pages: {
       supportMe: {
-        title: 'Support Me | itsrakesh - blog',
+        title: 'Support Me | technodev - blog',
         description:
           'Your support keeps this blog alive and motivates me to keep creating content.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/support_me_DUCAFlO96.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350841027'
+          'https://res.cloudinary.com/technodevblog/image/upload/v1674575554/Blog/Support_-_Technodev_Blog_u1pafl.png'
       },
       articles: {
-        title: 'Articles | itsrakesh - blog',
+        title: 'Articles | technodev - blog',
         description:
           'Read articles on web development, web3, blockchain, design, and more.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/articles_QqdeLjlbl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838382'
       },
       snippets: {
-        title: 'Snippets | itsrakesh - blog',
+        title: 'Snippets | technodev - blog',
         description:
           'Snippets are code samples and quick tips that I have written. Explore and share them.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/snippets_ma1o5jx8Z.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350839459'
       },
       categories: {
-        title: 'Categories | itsrakesh - blog',
+        title: 'Categories | technodev - blog',
         description: 'Browse different categories.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/categories_u4RkWWNIi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838394'
       },
       tags: {
-        title: 'Tags | itsrakesh - blog',
+        title: 'Tags | technodev - blog',
         description: 'Explore all the tags.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/tags_kBWiaEWuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350842330'
       },
       privacy: {
-        title: 'Privacy Policy | itsrakesh - blog',
-        description: 'This page contains itsrakesh - blog privacy policies.',
+        title: 'Privacy Policy | technodev - blog',
+        description: 'This page contains technodev - blog privacy policies.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/privacy_policy_xq4AJG1mUd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838506'
       },
       cookie: {
-        title: 'Cookie Policy | itsrakesh - blog',
-        description: 'This page contains itsrakesh - blog cookie policies.',
+        title: 'Cookie Policy | technodev - blog',
+        description: 'This page contains technodev - blog cookie policies.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/cookie_policy_ulfXI9cMG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656351873708'
       },
       terms: {
-        title: 'Terms & Conditions | itsrakesh - blog',
-        description: 'This page contains itsrakesh - blog terms & conditions.',
+        title: 'Terms & Conditions | technodev - blog',
+        description: 'This page contains technodev - blog terms & conditions.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/terms___conditions_jb7mesw-j.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350842954'
       },
       externalArticles: {
-        title: 'External Articles | itsrakesh - blog',
-        description: 'Read articles written by Rakesh Potnuru on other sites.',
+        title: 'External Articles | technodev - blog',
+        description: 'Read articles written by technodev on other sites.',
         image:
           'https://ik.imagekit.io/itsrakesh/Blog/external_articles_urr6u2vH1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657081755552'
       }
