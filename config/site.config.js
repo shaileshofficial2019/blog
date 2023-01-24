@@ -24,55 +24,55 @@ const siteConfig = {
         description:
           'Read articles on web development, web3, blockchain, design, and more.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/articles_QqdeLjlbl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838382'
+          'https://res.cloudinary.com/technodevblog/image/upload/v1674581365/Blog/Articles_-_Technodev_Blog_dmwb52.png'
       },
       snippets: {
         title: 'Snippets | technodev - blog',
         description:
           'Snippets are code samples and quick tips that I have written. Explore and share them.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/snippets_ma1o5jx8Z.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350839459'
+          'https://res.cloudinary.com/technodevblog/image/upload/v1674581365/Blog/Snippets-_Technodev_Blog_v2dsnw.png'
       },
       categories: {
         title: 'Categories | technodev - blog',
         description: 'Browse different categories.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/categories_u4RkWWNIi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838394'
+          'https://res.cloudinary.com/technodevblog/image/upload/v1674581366/Blog/Categories-_Technodev_Blog_yh64ja.png'
       },
       tags: {
         title: 'Tags | technodev - blog',
         description: 'Explore all the tags.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/tags_kBWiaEWuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350842330'
+          'https://res.cloudinary.com/technodevblog/image/upload/v1674581365/Blog/Tags-_Technodev_Blog_jlxjtr.png'
       },
       privacy: {
         title: 'Privacy Policy | technodev - blog',
         description: 'This page contains technodev - blog privacy policies.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/privacy_policy_xq4AJG1mUd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350838506'
+          'https://res.cloudinary.com/technodevblog/image/upload/v1674581365/Blog/Privacy-_Technodev_Blog_kugijg.png'
       },
       cookie: {
         title: 'Cookie Policy | technodev - blog',
         description: 'This page contains technodev - blog cookie policies.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/cookie_policy_ulfXI9cMG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656351873708'
+          'https://res.cloudinary.com/technodevblog/image/upload/v1674581365/Blog/cookie-_Technodev_Blog_i5bawd.png'
       },
       terms: {
         title: 'Terms & Conditions | technodev - blog',
         description: 'This page contains technodev - blog terms & conditions.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/terms___conditions_jb7mesw-j.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656350842954'
+          'https://res.cloudinary.com/technodevblog/image/upload/v1674581365/Blog/Terms-_Technodev_Blog_ekwdjd.png'
       },
       externalArticles: {
         title: 'External Articles | technodev - blog',
         description: 'Read articles written by technodev on other sites.',
         image:
-          'https://ik.imagekit.io/itsrakesh/Blog/external_articles_urr6u2vH1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657081755552'
+          'https://res.cloudinary.com/technodevblog/image/upload/v1674581365/Blog/External-_Technodev_Blog_vlu2pd.png'
       }
     }
   },
   branding: {
-    logo: 'https://ik.imagekit.io/itsrakesh/Blog/blog_logo_Gk6jqlMK8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1650611776118',
+    logo: 'https://res.cloudinary.com/technodevblog/image/upload/v1674581364/Blog/logo_ujsy0h.png',
     colors: {
       brand: {
         50: '#7868E6',
@@ -93,24 +93,24 @@ const siteConfig = {
   },
   urls: {
     socials: {
-      twitter: 'https://twitter.com/rakesh_at_tweet',
-      linkedin: 'https://www.linkedin.com/in/itsrakesh',
-      github: 'https://github.com/RakeshPotnuru',
-      showwcase: 'https://www.showwcase.com/itsrakesh'
+      twitter: 'https://twitter.com/',
+      linkedin: 'https://www.linkedin.com/in/',
+      github: 'https://github.com/',
+      showwcase: ''
     },
-    about: 'https://itsrakesh.co/about',
-    status: 'https://status.itsrakesh.co',
-    newsletter: 'https://newsletter.itsrakesh.co',
-    kofi: 'https://ko-fi.com/itsrakesh'
+    about: '',
+    status: '',
+    newsletter: '',
+    kofi: 'https://ko-fi.com/'
   },
   adsense: {
-    publisherId: 'pub-5607528168839545',
+    publisherId: '',
     slots: {
-      pageTop: '6183806725',
-      inFeed: '3408517885'
+      pageTop: '',
+      inFeed: ''
     }
   },
-  copyrightText: `© ${new Date().getFullYear()} itsrakesh. All rights reserved.`,
+  copyrightText: `© ${new Date().getFullYear()} technodev. All rights reserved.`,
   siteVersion: '1.1.0'
 };
 
