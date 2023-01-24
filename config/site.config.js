@@ -72,7 +72,7 @@ const siteConfig = {
     }
   },
   branding: {
-    logo: 'https://res.cloudinary.com/technodevblog/image/upload/v1674581364/Blog/logo_ujsy0h.png',
+    logo: 'https://res.cloudinary.com/technodevblog/image/upload/v1674581815/Blog/branding_aziehh.png',
     colors: {
       brand: {
         50: '#7868E6',
